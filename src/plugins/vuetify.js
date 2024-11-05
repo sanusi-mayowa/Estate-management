@@ -9,7 +9,7 @@ export default createVuetify({
       light: {
         dark: false,
         colors: {
-          primary: "#E8F1F2",
+          primary: "#0b68c0",
         },
         variables: {
           fontFamily: "Poppins, sans-serif",
