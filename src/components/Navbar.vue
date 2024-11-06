@@ -21,7 +21,11 @@
         </v-list>
 
         <div class="d-flex align-center">
-          <v-btn flat class="text-capitalize font-weight-bold mr-2"
+          <v-btn
+            flat
+            class="text-capitalize font-weight-bold mr-2"
+            exact-active-class="active-link"
+            to="/login"
             >Login</v-btn
           >
           <v-btn
