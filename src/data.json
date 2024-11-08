@@ -20,5 +20,117 @@
       "text": "Contact",
       "to": "/contact"
     }
+  ],
+  "clients": [
+    {
+      "id": 1,
+      "ratings": "12K+",
+      "about": "Happy Client"
+    },
+    {
+      "id": 2,
+      "ratings": "10K+",
+      "about": "Plots"
+    },
+    {
+      "id": 3,
+      "ratings": "12+",
+      "about": "Experience"
+    }
+  ],
+  "featured": [
+    {
+      "id": 1,
+      "img": "/assests/featured1.png",
+      "like": "/assests/like.png",
+      "hot": "/assests/hot.png",
+      "title": "Greenhaven Acres",
+      "description": "Nested near serene rolling hills, Greenhaven Acres offers expansive plots perfect for your dream home.",
+      "price": "5,000,000"
+    },
+    {
+      "id": 2,
+      "img": "/assests/featured2.png",
+      "like": "/assests/like.png",
+      "hot": "/assests/hot.png",
+      "title": "Suncrest Estates",
+      "description": "Suncrest Estates boasts sun-drenched plots with breathtaking views of the countryside.",
+      "price": "8,500,000"
+    },
+    {
+      "id": 3,
+      "img": "/assests/featured3.png",
+      "like": "/assests/like.png",
+      "hot": "/assests/Vector.png",
+      "title": "Riverstone Valley",
+      "description": "Located near a tranquil riverbank, Riverstone valley features premium plots ideal for nature lovers.",
+      "price": "7,200,000",
+      "angle": "/assests/angle.png"
+    }
+  ],
+  "listing": [
+    {
+      "id": 1,
+      "img": "/assests/latest1.png",
+      "btn": "Newest",
+      "like": "/assests/like.png",
+      "title": "Victoria Crest",
+      "location": "Victoria Island, Lagos",
+      "size": "900",
+      "price": "150,000,000"
+    },
+    {
+      "id": 2,
+      "img": "/assests/latest2.png",
+      "btn": "Newest",
+      "like": "/assests/like.png",
+      "title": "Emerald Gardens",
+      "location": "Gwarinpa, Abuja",
+      "size": "1,000",
+      "price": "40,000,000"
+    },
+    {
+      "id": 3,
+      "img": "/assests/latest3.png",
+      "btn": "Newest",
+      "like": "/assests/like.png",
+      "title": "Eko Pearl Estate",
+      "location": "Eko Atlantic, Lagos",
+      "size": "1,200",
+      "price": "180,000,000"
+    },
+    {
+      "id": 4,
+      "img": "/assests/latest4.png",
+      "btn": "Newest",
+      "like": "/assests/like.png",
+      "title": "Amber Heights",
+      "location": "Wuse ii, Abuja",
+      "size": "1,100",
+      "price": "80,000,000"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "img": "/assests/testimonial1.png",
+      "description": "PlotVista made buying my first plot in Lagos a breeze! The Interactive maps and detailed property information helped me made an informed decision. The team was incredidly supportive throughout the process. I highly recommend them to anyone looking to invest in land",
+      "name": "Chinedu O., Lagos",
+      "star": "5.0"
+    },
+    {
+      "id": 2,
+      "img": "/assests/testimonial1.png",
+      "description": "I was looking for a plot to buy my dream home , And PlotVista delivered exactly what i needed. The transparency in pricing and the profesional advice from their team gave me complete evidence. i'm thrilled with my purchase",
+      "name": "Fatima ., Abuja",
+      "star": "4.8"
+    },
+    {
+      "id": 3,
+      "img": "/assests/testimonial1.png",
+      "description": "The convenience of browsing plots on PlotVista is unmatched,.From the virtual tours to detailed descriptions, everything was easy to navigate. The customer service team was also fantastic in answeringg all my questions. I'll definitely us PlotVista again for future investment",
+      "name": "Bayo ., Port Harcourt",
+      "star": "4.5"
+    }
   ]
 }

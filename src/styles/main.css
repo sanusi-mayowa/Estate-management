@@ -47,7 +47,7 @@ body {
   position: initial !important;
 }
 .home-page {
-  background: url(/public/assests/home.jpeg);
+  background: url(/public/assests/home.png);
   margin-top: -40px;
   height: 100vh;
   background-size: cover;
@@ -72,20 +72,71 @@ body {
 }
 .home-side {
   z-index: 999;
-  position: relative;
+  bottom: 20px;
+  left: 20px;
 }
 .custom .v-input__details {
   display: none !important;
 }
 .input-shadow {
-  background: rgb(206, 198, 198, 0.7);
+  background: rgb(255, 255, 255, 0.5);
   margin-top: -3px;
 }
 .custom .v-field--appended {
   padding-inline-end: 0 !important;
 }
-.custom.v-input--density-default{
+.custom.v-input--density-default {
   --v-input-padding-top: 0 !important;
+}
+.happy-client {
+  top: -30px;
+  border-radius: 10px;
+  border: none;
+  max-width: 500px;
+  margin: 0 auto;
+  box-shadow: -4px 4px 8px rgba(0, 0, 0, 0.2), 4px 4px 8px rgba(0, 0, 0, 0.2),
+    0px 4px 8px rgba(0, 0, 0, 0.2);
+  border-top: 7px solid rgba(0, 78, 149, 0.9);
+}
+.featured .special-h2 {
+  position: relative;
+}
+.featured .special-h2::after {
+  content: "";
+  position: absolute;
+  background: #004e95;
+  height: 3px;
+  border-radius: 5px;
+  width: 75px;
+  left: 0;
+  bottom: 0;
+}
+.v-row {
+  margin: 0 !important;
+}
+.featured-img {
+  width: 100%;
+  height: 100%;
+  border-radius: 30px;
+}
+.feature-solute{
+  top: 20px;
+}
+.feature-solute .d-flex{
+  justify-content: space-between;
+  position: relative;
+}
+.featured-row .featured:nth-child(3) .target.px-5 {
+  padding-right: 0 !important;
+}
+.featured-row .featured:nth-child(3) .feature-solute{
+  top: 0;
+}
+.featured-row .featured:nth-child(3) .angle-second{
+  position: absolute;
+  left: 60px !important;
+  top: 10px !important;
+  width: 30px;
 }
 @media (max-width: 900px) {
   .laptopnav {
@@ -96,5 +147,45 @@ body {
   }
   .ham {
     color: #004e95 !important;
+  }
+  .home-center {
+    padding-top: 350px;
+  }
+}
+@media (max-width: 375px) {
+  .home-center {
+    padding-top: 80px;
+  }
+}
+@media (max-width: 490px) {
+  .home-center {
+    padding-top: 195px;
+  }
+  .landing {
+    font-size: 40px !important;
+    font-weight: 500;
+  }
+  .landing.mb-8 {
+    margin-bottom: 10px !important;
+  }
+  .home-center .first-span {
+    font-size: 14px;
+  }
+  .input-home.mt-6 {
+    margin-top: 30px !important;
+  }
+}
+@media (max-width: 320px) {
+  .home-center {
+    padding-top: 90px;
+  }
+  .landing {
+    font-size: 35px !important;
+  }
+}
+@media (max-width: 690px) {
+  .happy-client {
+    /* top: -2  0px;  */
+    margin: 10px 10px !important;
   }
 }
