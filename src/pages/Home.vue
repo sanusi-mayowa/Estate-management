@@ -87,6 +87,7 @@
       <v-row class="featured-row">
         <v-col
           cols="12"
+          sm="6"
           md="4"
           class="featured"
           v-for="feature in featured"
@@ -100,22 +101,43 @@
                   <img :src="feature.like" alt="" width="50" class="special" />
                 </div>
                 <div class="angle position-relative">
-                  <img :src="feature.angle" alt="" width="100">
-                  <img :src="feature.hot" alt="" width="50" class="angle-second" />
-                  
+                  <img :src="feature.angle" alt="" width="100" />
+                  <img
+                    :src="feature.hot"
+                    alt=""
+                    width="50"
+                    class="angle-second"
+                  />
                 </div>
               </div>
             </div>
-            <div class="mt-2">
+            <div class="mt-2 px-2">
               <div class="d-flex align-center justify-space-between">
-                <h2>{{ feature.title }}</h2>
+                <h3 style="font-weight: 600; font-size: clamp(16px, 4vw, 20px)">
+                  {{ feature.title }}
+                </h3>
                 <span>
                   <img src="/assests/star.png" alt="" />
-                  4.8
+                  <span>4.8</span>
                 </span>
               </div>
-              <p>{{ feature.description }}</p>
-              <div class="d-flex align-center justify-space-between"></div>
+              <span
+                style="font-size: 12px; font-weight: 400"
+                class="d-block mt-2"
+                >{{ feature.description }}</span
+              >
+              <div class="d-flex align-center justify-space-between mt-3">
+                <div>
+                  <h4 style="font-size: 20px; font-weight: 600">
+                    # {{ feature.price }}
+                  </h4>
+                </div>
+                <div>
+                  <v-btn flat class="bg-primary text-capitalize rounded-pill"
+                    >Buy Plot</v-btn
+                  >
+                </div>
+              </div>
             </div>
           </div>
         </v-col>

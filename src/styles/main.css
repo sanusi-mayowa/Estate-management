@@ -94,8 +94,8 @@ body {
   border: none;
   max-width: 500px;
   margin: 0 auto;
-  box-shadow: -4px 4px 8px rgba(0, 0, 0, 0.2), 4px 4px 8px rgba(0, 0, 0, 0.2),
-    0px 4px 8px rgba(0, 0, 0, 0.2);
+  box-shadow: -4px 4px 5px rgba(0, 0, 0, 0.1), 4px 4px 5px rgba(0, 0, 0, 0.1),
+    0px 4px 5px rgba(0, 0, 0, 0.1);
   border-top: 7px solid rgba(0, 78, 149, 0.9);
 }
 .featured .special-h2 {
@@ -136,7 +136,7 @@ body {
   position: absolute;
   left: 60px !important;
   top: 10px !important;
-  width: 30px;
+  width: 25px !important;
 }
 @media (max-width: 900px) {
   .laptopnav {
