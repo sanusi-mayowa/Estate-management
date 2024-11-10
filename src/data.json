@@ -120,17 +120,44 @@
     },
     {
       "id": 2,
-      "img": "/assests/testimonial1.png",
+      "img": "/assests/testimonial2.png",
       "description": "I was looking for a plot to buy my dream home , And PlotVista delivered exactly what i needed. The transparency in pricing and the profesional advice from their team gave me complete evidence. i'm thrilled with my purchase",
       "name": "Fatima ., Abuja",
       "star": "4.8"
     },
     {
       "id": 3,
-      "img": "/assests/testimonial1.png",
+      "img": "/assests/testimonial3.png",
       "description": "The convenience of browsing plots on PlotVista is unmatched,.From the virtual tours to detailed descriptions, everything was easy to navigate. The customer service team was also fantastic in answeringg all my questions. I'll definitely us PlotVista again for future investment",
       "name": "Bayo ., Port Harcourt",
       "star": "4.5"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "name": "How do i search for available plots on PlotVista",
+      "answer": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur debitis, nisi aut dolores repellendus sit temporibus eaque nobis iste vel earum maiores? Dolorem illo nihil natus sunt quas asperiores culpa aliquam perferendis cum dicta earum similique unde, reiciendis eligendi perspiciatis tempora cumque. Fugiat vel sed atque libero eos sint ex nulla fuga qui sit inventore magnam quis, iure, tempora harum beatae corporis. Consectetur ea, minima in perspiciatis voluptates est dolore quam quisquam labore mollitia saepe ad iste nisi laborum assumenda? Deleniti aliquid iure quod doloribus. Saepe voluptas, aliquid, laborum ducimus suscipit aliquam iure nemo sunt reiciendis temporibus quas non ipsum earum incidunt cumque, placeat nesciunt labore et architecto praesentium? Atque molestias sapiente alias. Dolor voluptatem cupiditate molestiae sequi ipsum velit vel sunt, quos id cum culpa unde nihil molestias ratione exercitationem. Enim eveniet nobis itaque, unde ullam modi aut voluptatum. Reprehenderit eligendi dolor reiciendis perspiciatis asperiores ea doloremque porro, commodi iusto, quidem dolores. Nam corporis, nihil sunt magni accusantium veritatis quasi maxime, rem amet a minus inventore animi beatae aspernatur quidem eius odio tempore quaerat aperiam eaque, laborum nostrum. Recusandae, a amet perferendis ea magnam nesciunt. Accusamus, deserunt omnis reiciendis molestiae unde illum odit, eos modi dolorum impedit aut ex!"
+    },
+    {
+      "id": 2,
+      "name": "Are the prices listed negotiable",
+      "answer": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur debitis, nisi aut dolores repellendus sit temporibus eaque nobis iste vel earum maiores? Dolorem illo nihil natus sunt quas asperiores culpa aliquam perferendis cum dicta earum similique unde, reiciendis eligendi perspiciatis tempora cumque. Fugiat vel sed atque libero eos sint ex nulla fuga qui sit inventore magnam quis, iure, tempora harum beatae corporis. Consectetur ea, minima in perspiciatis voluptates est dolore quam quisquam labore mollitia saepe ad iste nisi laborum assumenda? Deleniti aliquid iure quod doloribus. Saepe voluptas, aliquid, laborum ducimus suscipit aliquam iure nemo sunt reiciendis temporibus quas non ipsum earum incidunt cumque, placeat nesciunt labore et architecto praesentium? Atque molestias sapiente alias. Dolor voluptatem cupiditate molestiae sequi ipsum velit vel sunt, quos id cum culpa unde nihil molestias ratione exercitationem. Enim eveniet nobis itaque, unde ullam modi aut voluptatum. Reprehenderit eligendi dolor reiciendis perspiciatis asperiores ea doloremque porro, commodi iusto, quidem dolores. Nam corporis, nihil sunt magni accusantium veritatis quasi maxime, rem amet a minus inventore animi beatae aspernatur quidem eius odio tempore quaerat aperiam eaque, laborum nostrum. Recusandae, a amet perferendis ea magnam nesciunt. Accusamus, deserunt omnis reiciendis molestiae unde illum odit, eos modi dolorum impedit aut ex!"
+    },
+    {
+      "id": 3,
+      "name": "Can i schedule a site visit to see the plot in person",
+      "answer": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur debitis, nisi aut dolores repellendus sit temporibus eaque nobis iste vel earum maiores? Dolorem illo nihil natus sunt quas asperiores culpa aliquam perferendis cum dicta earum similique unde, reiciendis eligendi perspiciatis tempora cumque. Fugiat vel sed atque libero eos sint ex nulla fuga qui sit inventore magnam quis, iure, tempora harum beatae corporis. Consectetur ea, minima in perspiciatis voluptates est dolore quam quisquam labore mollitia saepe ad iste nisi laborum assumenda? Deleniti aliquid iure quod doloribus. Saepe voluptas, aliquid, laborum ducimus suscipit aliquam iure nemo sunt reiciendis temporibus quas non ipsum earum incidunt cumque, placeat nesciunt labore et architecto praesentium? Atque molestias sapiente alias. Dolor voluptatem cupiditate molestiae sequi ipsum velit vel sunt, quos id cum culpa unde nihil molestias ratione exercitationem. Enim eveniet nobis itaque, unde ullam modi aut voluptatum. Reprehenderit eligendi dolor reiciendis perspiciatis asperiores ea doloremque porro, commodi iusto, quidem dolores. Nam corporis, nihil sunt magni accusantium veritatis quasi maxime, rem amet a minus inventore animi beatae aspernatur quidem eius odio tempore quaerat aperiam eaque, laborum nostrum. Recusandae, a amet perferendis ea magnam nesciunt. Accusamus, deserunt omnis reiciendis molestiae unde illum odit, eos modi dolorum impedit aut ex!"
+    },
+    {
+      "id": 4,
+      "name": "How do i know the plots are legally available for sale",
+      "answer": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur debitis, nisi aut dolores repellendus sit temporibus eaque nobis iste vel earum maiores? Dolorem illo nihil natus sunt quas asperiores culpa aliquam perferendis cum dicta earum similique unde, reiciendis eligendi perspiciatis tempora cumque. Fugiat vel sed atque libero eos sint ex nulla fuga qui sit inventore magnam quis, iure, tempora harum beatae corporis. Consectetur ea, minima in perspiciatis voluptates est dolore quam quisquam labore mollitia saepe ad iste nisi laborum assumenda? Deleniti aliquid iure quod doloribus. Saepe voluptas, aliquid, laborum ducimus suscipit aliquam iure nemo sunt reiciendis temporibus quas non ipsum earum incidunt cumque, placeat nesciunt labore et architecto praesentium? Atque molestias sapiente alias. Dolor voluptatem cupiditate molestiae sequi ipsum velit vel sunt, quos id cum culpa unde nihil molestias ratione exercitationem. Enim eveniet nobis itaque, unde ullam modi aut voluptatum. Reprehenderit eligendi dolor reiciendis perspiciatis asperiores ea doloremque porro, commodi iusto, quidem dolores. Nam corporis, nihil sunt magni accusantium veritatis quasi maxime, rem amet a minus inventore animi beatae aspernatur quidem eius odio tempore quaerat aperiam eaque, laborum nostrum. Recusandae, a amet perferendis ea magnam nesciunt. Accusamus, deserunt omnis reiciendis molestiae unde illum odit, eos modi dolorum impedit aut ex!"
+    },
+    {
+      "id": 5,
+      "name": "What is the process for purchasing a plot on PlotVista",
+      "answer": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur debitis, nisi aut dolores repellendus sit temporibus eaque nobis iste vel earum maiores? Dolorem illo nihil natus sunt quas asperiores culpa aliquam perferendis cum dicta earum similique unde, reiciendis eligendi perspiciatis tempora cumque. Fugiat vel sed atque libero eos sint ex nulla fuga qui sit inventore magnam quis, iure, tempora harum beatae corporis. Consectetur ea, minima in perspiciatis voluptates est dolore quam quisquam labore mollitia saepe ad iste nisi laborum assumenda? Deleniti aliquid iure quod doloribus. Saepe voluptas, aliquid, laborum ducimus suscipit aliquam iure nemo sunt reiciendis temporibus quas non ipsum earum incidunt cumque, placeat nesciunt labore et architecto praesentium? Atque molestias sapiente alias. Dolor voluptatem cupiditate molestiae sequi ipsum velit vel sunt, quos id cum culpa unde nihil molestias ratione exercitationem. Enim eveniet nobis itaque, unde ullam modi aut voluptatum. Reprehenderit eligendi dolor reiciendis perspiciatis asperiores ea doloremque porro, commodi iusto, quidem dolores. Nam corporis, nihil sunt magni accusantium veritatis quasi maxime, rem amet a minus inventore animi beatae aspernatur quidem eius odio tempore quaerat aperiam eaque, laborum nostrum. Recusandae, a amet perferendis ea magnam nesciunt. Accusamus, deserunt omnis reiciendis molestiae unde illum odit, eos modi dolorum impedit aut ex!"
     }
   ]
 }

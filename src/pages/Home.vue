@@ -68,33 +68,39 @@
     <Featured />
   </section>
   <!-- listings section -->
-   <section>
+  <section>
     <Listings />
-   </section>
-   <!-- why choose us section -->
-    <section>
-      <WhyChooseUs />
-    </section>
-
-
-
-
-  
-
+  </section>
+  <!-- why choose us section -->
+  <section>
+    <WhyChooseUs />
+  </section>
+  <!-- testimonial section -->
+  <section>
+    <Testimonial />
+  </section>
+  <!-- frequently asked Question -->
+  <section>
+    <Question />
+  </section>
 </template>
 <script>
-import Clients from '@/Cards/Clients.vue';
-import Featured from '@/Cards/Featured.vue';
-import Listings from '@/Cards/Listings.vue';
-import WhyChooseUs from '@/Cards/WhyChooseUs.vue';
+import Clients from "@/Cards/Clients.vue";
+import Featured from "@/Cards/Featured.vue";
+import Listings from "@/Cards/Listings.vue";
+import WhyChooseUs from "@/Cards/WhyChooseUs.vue";
+import Testimonial from "@/Cards/Testimonial.vue";
+import Question from "@/Cards/Question.vue";
 
 export default {
   name: "Home",
   components: {
-    Clients, 
+    Clients,
     Featured,
     Listings,
-    WhyChooseUs
+    WhyChooseUs,
+    Testimonial,
+    Question,
   },
   data() {
     return {

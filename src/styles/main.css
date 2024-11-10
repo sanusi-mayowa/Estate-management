@@ -100,12 +100,14 @@ body {
 }
 .featured .special-h2,
 .listings .special-h2,
-.why-choose-us-main .special-h2 {
+.why-choose-us-main .special-h2,
+.testimonial .special-h2 {
   position: relative;
 }
 .featured .special-h2::after,
 .listings .special-h2::after,
-.why-choose-us-main .special-h2::after {
+.why-choose-us-main .special-h2::after,
+.testimonial .special-h2::after {
   content: "";
   position: absolute;
   background: #004e95;
@@ -125,27 +127,27 @@ body {
   border-radius: 30px;
 }
 .feature-solute,
-.listings-solute{
+.listings-solute {
   top: 20px;
 }
 .feature-solute .d-flex,
-.listings-solute .d-flex{
+.listings-solute .d-flex {
   justify-content: space-between;
   position: relative;
 }
 .featured-row .featured:nth-child(3) .target.px-5 {
   padding-right: 0 !important;
 }
-.featured-row .featured:nth-child(3) .feature-solute{
+.featured-row .featured:nth-child(3) .feature-solute {
   top: 0;
 }
-.featured-row .featured:nth-child(3) .angle-second{
+.featured-row .featured:nth-child(3) .angle-second {
   position: absolute;
   left: 60px !important;
   top: 10px !important;
   width: 25px !important;
 }
-.listing-des{
+.listing-des {
   top: -70px;
 }
 .outlined.text-blue-darken-4 {
@@ -155,12 +157,21 @@ body {
   border: thin solid #004e95;
 }
 .outlined.v-btn,
-.outline.v-btn{
+.outline.v-btn {
   border-radius: 8px;
 }
-.why-top{
+.why-top {
   top: -2px !important;
   right: 20px !important;
+}
+.why-choose-us-main .special-h2::after {
+  width: 55px;
+}
+.v-carousel{
+  height: auto !important;
+}
+.expand-border{
+  border: 2px solid #004e95;
 }
 @media (max-width: 900px) {
   .laptopnav {
@@ -198,6 +209,30 @@ body {
   .input-home.mt-6 {
     margin-top: 30px !important;
   }
+  .mt-16.pt-10.about-btn {
+    margin-top: 5px !important;
+    padding-top: 5px !important;
+  }
+  .whyus-section.mt-16 {
+    margin-top: 10px !important;
+  }
+  .why-choose-us-main.mt-16,
+  .why-choose-us-main.pt-16 {
+    margin-top: 8px !important;
+    padding-top: 8px !important;
+  }
+  .span-text.mt-8 {
+    margin-top: 0 !important;
+  }
+  .why-choose-us-main .mb-3.special-h2 {
+    margin-bottom: 0 !important;
+  }
+  .center-btn.ga-16 {
+    gap: 10px !important;
+  }
+  .first-col.mt-10 {
+    margin-top: 5px !important;
+  }
 }
 @media (max-width: 320px) {
   .home-center {
@@ -209,7 +244,6 @@ body {
 }
 @media (max-width: 690px) {
   .happy-client {
-    /* top: -2  0px;  */
     margin: 10px 10px !important;
   }
 }

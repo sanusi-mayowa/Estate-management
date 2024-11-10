@@ -1,7 +1,7 @@
 <template>
   <section class="featured bg-white px-5 mb-7">
-    <h2 class="mb-2 special-h2">Featured Properties</h2>
-    <span class="b-block text-grey" style="font-weight: 600; font-size: 14px"
+    <h2 class="mb-2 special-h2 ml-2">Featured Properties</h2>
+    <span class="b-block text-grey ml-2" style="font-weight: 600; font-size: 14px"
       >Explore Exclusive Featured Properties</span
     >
     <div class="mt-5">

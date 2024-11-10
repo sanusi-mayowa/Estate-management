@@ -1,7 +1,7 @@
 <template>
   <section class="listings bg-white px-5 mt-16 pt-5">
-    <h2 class="mb-2 special-h2">Latest Pricing</h2>
-    <span class="b-block text-grey" style="font-weight: 600; font-size: 14px"
+    <h2 class="mb-2 special-h2 ml-2">Latest Pricing</h2>
+    <span class="b-block text-grey ml-2" style="font-weight: 600; font-size: 14px"
       >Check out our latest Plots Listings</span
     >
     <div class="mt-5">
