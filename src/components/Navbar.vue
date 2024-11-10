@@ -19,7 +19,6 @@
             </v-list-item-content>
           </v-list-item>
         </v-list>
-
         <div class="d-flex align-center">
           <v-btn
             flat
@@ -30,9 +29,10 @@
           >
           <v-btn
             flat
-            class="text-capitalize font-weight-bold text-dark"
+            class="text-capitalize font-weight-bold text-dark outlined"
             variant="outlined"
             color="blue-darken-4"
+            to="/register"
             >Register</v-btn
           >
         </div>
@@ -83,7 +83,7 @@
           >
           <v-btn
             flat
-            class="text-capitalize mt-4 font-weight-bold"
+            class="text-capitalize mt-4 font-weight-bold outlined"
             variant="outlined"
             color="blue-darken-4"
             >Register</v-btn

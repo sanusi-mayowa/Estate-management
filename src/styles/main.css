@@ -98,10 +98,14 @@ body {
     0px 4px 5px rgba(0, 0, 0, 0.1);
   border-top: 7px solid rgba(0, 78, 149, 0.9);
 }
-.featured .special-h2 {
+.featured .special-h2,
+.listings .special-h2,
+.why-choose-us-main .special-h2 {
   position: relative;
 }
-.featured .special-h2::after {
+.featured .special-h2::after,
+.listings .special-h2::after,
+.why-choose-us-main .special-h2::after {
   content: "";
   position: absolute;
   background: #004e95;
@@ -114,15 +118,18 @@ body {
 .v-row {
   margin: 0 !important;
 }
-.featured-img {
+.featured-img,
+.listings-img {
   width: 100%;
   height: 100%;
   border-radius: 30px;
 }
-.feature-solute{
+.feature-solute,
+.listings-solute{
   top: 20px;
 }
-.feature-solute .d-flex{
+.feature-solute .d-flex,
+.listings-solute .d-flex{
   justify-content: space-between;
   position: relative;
 }
@@ -137,6 +144,23 @@ body {
   left: 60px !important;
   top: 10px !important;
   width: 25px !important;
+}
+.listing-des{
+  top: -70px;
+}
+.outlined.text-blue-darken-4 {
+  color: #000 !important;
+}
+.outlined.v-btn--variant-outlined {
+  border: thin solid #004e95;
+}
+.outlined.v-btn,
+.outline.v-btn{
+  border-radius: 8px;
+}
+.why-top{
+  top: -2px !important;
+  right: 20px !important;
 }
 @media (max-width: 900px) {
   .laptopnav {

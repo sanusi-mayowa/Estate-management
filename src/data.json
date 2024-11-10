@@ -68,7 +68,7 @@
       "angle": "/assests/angle.png"
     }
   ],
-  "listing": [
+  "listings": [
     {
       "id": 1,
       "img": "/assests/latest1.png",
@@ -91,7 +91,7 @@
     },
     {
       "id": 3,
-      "img": "/assests/latest3.png",
+      "img": "/assests/latest2.png",
       "btn": "Newest",
       "like": "/assests/like.png",
       "title": "Eko Pearl Estate",
