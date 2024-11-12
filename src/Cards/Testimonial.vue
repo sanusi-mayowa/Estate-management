@@ -3,7 +3,7 @@
     <div class="d-flex align-center justify-center mb-8">
       <h2 class="mb-2 special-h2">Testimonial</h2>
     </div>
-    <v-carousel cycle interval="3000" show-arrows="hover" hide-delimiters>
+    <v-carousel cycle interval="5000" show-arrows="hover" hide-delimiters>
       <v-carousel-item v-for="testimonial in testimonials" :key="testimonial">
         <v-card class="px-5 bg-testimonial pt-6 pb-2" flat>
           <div class="text-center">

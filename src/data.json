@@ -159,5 +159,93 @@
       "name": "What is the process for purchasing a plot on PlotVista",
       "answer": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur debitis, nisi aut dolores repellendus sit temporibus eaque nobis iste vel earum maiores? Dolorem illo nihil natus sunt quas asperiores culpa aliquam perferendis cum dicta earum similique unde, reiciendis eligendi perspiciatis tempora cumque. Fugiat vel sed atque libero eos sint ex nulla fuga qui sit inventore magnam quis, iure, tempora harum beatae corporis. Consectetur ea, minima in perspiciatis voluptates est dolore quam quisquam labore mollitia saepe ad iste nisi laborum assumenda? Deleniti aliquid iure quod doloribus. Saepe voluptas, aliquid, laborum ducimus suscipit aliquam iure nemo sunt reiciendis temporibus quas non ipsum earum incidunt cumque, placeat nesciunt labore et architecto praesentium? Atque molestias sapiente alias. Dolor voluptatem cupiditate molestiae sequi ipsum velit vel sunt, quos id cum culpa unde nihil molestias ratione exercitationem. Enim eveniet nobis itaque, unde ullam modi aut voluptatum. Reprehenderit eligendi dolor reiciendis perspiciatis asperiores ea doloremque porro, commodi iusto, quidem dolores. Nam corporis, nihil sunt magni accusantium veritatis quasi maxime, rem amet a minus inventore animi beatae aspernatur quidem eius odio tempore quaerat aperiam eaque, laborum nostrum. Recusandae, a amet perferendis ea magnam nesciunt. Accusamus, deserunt omnis reiciendis molestiae unde illum odit, eos modi dolorum impedit aut ex!"
     }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "text": "Home",
+      "route": "/"
+    },
+    {
+      "id": 2,
+      "text": "Plots",
+      "route": "/plot"
+    },
+    {
+      "id": 3,
+      "text": "About",
+      "route": "/about"
+    },
+    {
+      "id": 4,
+      "text": "Contact",
+      "route": "/contact"
+    }
+  ],
+  "helps": [
+    {
+      "id": 1,
+      "text": "Contact Us",
+      "route": "/"
+    },
+    {
+      "id": 2,
+      "text": "FAQS",
+      "route": "/plot"
+    },
+    {
+      "id": 3,
+      "text": "Live Chat Support",
+      "route": "/about"
+    },
+    {
+      "id": 4,
+      "text": "Legal Information",
+      "route": "/contact"
+    }
+  ],
+  "resources": [
+    {
+      "id": 1,
+      "text": "Blog",
+      "route": "/"
+    },
+    {
+      "id": 2,
+      "text": "Market Trend",
+      "route": "/plot"
+    },
+    {
+      "id": 3,
+      "text": "Live Chat Support",
+      "route": "/about"
+    },
+    {
+      "id": 4,
+      "text": "Legal Information",
+      "route": "/contact"
+    }
+  ],
+  "sociallinks": [
+    {
+      "id": 1,
+      "img": "/assests/facebook.png",
+      "url": "https://facebook.com"
+    },
+    {
+      "id": 2,
+      "img": "/assests/x.png",
+      "url": "https://twitter.com"
+    },
+    {
+      "id": 3,
+      "img": "/assests/instagram.png",
+      "url": "https://instagram.com"
+    },
+    {
+      "id": 4,
+      "img": "/assests/linkedin.png",
+      "url": "https://linkedin.com"
+    }
   ]
 }

@@ -8,7 +8,7 @@
         <v-expansion-panel-title
           collapse-icon="mdi-minus"
           expand-icon="mdi-plus"
-          class="text-black"
+          class="text-black expansion"
           style="font-size: 18px; font-weight: 500;"
         >
           {{question.name}}?

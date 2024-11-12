@@ -83,6 +83,14 @@
   <section>
     <Question />
   </section>
+  <!-- contact us section -->
+  <section>
+    <ContactUs />
+  </section>
+  <!-- map section overlay on footer -->
+  <section>
+    <GoogleMap />
+  </section>
 </template>
 <script>
 import Clients from "@/Cards/Clients.vue";
@@ -91,6 +99,8 @@ import Listings from "@/Cards/Listings.vue";
 import WhyChooseUs from "@/Cards/WhyChooseUs.vue";
 import Testimonial from "@/Cards/Testimonial.vue";
 import Question from "@/Cards/Question.vue";
+import ContactUs from "@/Cards/ContactUs.vue";
+import GoogleMap from "@/Cards/GoogleMap.vue";
 
 export default {
   name: "Home",
@@ -101,6 +111,8 @@ export default {
     WhyChooseUs,
     Testimonial,
     Question,
+    ContactUs,
+    GoogleMap,
   },
   data() {
     return {
