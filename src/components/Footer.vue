@@ -5,7 +5,7 @@
         <div><img src="/assests/logo2.png" width="200" alt="" /></div>
         <v-row class="pl-5">
           <v-col cols="12" sm="4" md="4">
-            <div>
+            <div class="small-footer">
               <p style="font-size: 18px; font-weight: 600">Company</p>
               <v-list class="bg-black">
                 <v-list-item
@@ -22,7 +22,7 @@
             </div>
           </v-col>
           <v-col cols="12" sm="4" md="4">
-            <div>
+            <div class="small-footer">
               <p style="font-size: 18px; font-weight: 600">Help</p>
               <v-list class="bg-black">
                 <v-list-item
@@ -39,7 +39,7 @@
             </div>
           </v-col>
           <v-col cols="12" sm="4" md="4">
-            <div>
+            <div class="small-footer">
               <p style="font-size: 18px; font-weight: 600">Resources</p>
               <v-list class="bg-black">
                 <v-list-item

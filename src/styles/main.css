@@ -242,6 +242,13 @@ body {
   .first-col.mt-10 {
     margin-top: 5px !important;
   }
+  .map-item{
+    width: 350px !important;
+    height: 200px !important;
+  }
+  .map-absolute{
+    bottom: -45px !important;
+  }
 }
 @media (max-width: 320px) {
   .home-center {
@@ -262,10 +269,14 @@ body {
   }
   .contactus .v-card{
     width: 100% !important;
+    text-align: center !important;
   }
 }
 @media (max-width: 600px){
   .expansion{
     font-size: 13px !important;
+  }
+  .small-footer{
+    text-align: center !important;
   }
 }

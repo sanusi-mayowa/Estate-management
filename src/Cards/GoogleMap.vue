@@ -9,7 +9,7 @@
         allowfullscreen=""
         loading="lazy"
         referrerpolicy="no-referrer-when-downgrade"
-        class="rounded-lg"
+        class="rounded-lg map-item"
       ></iframe>
     </div>
   </section>
