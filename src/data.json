@@ -247,5 +247,22 @@
       "img": "/assests/linkedin.png",
       "url": "https://linkedin.com"
     }
+  ],
+  "mainLinks": [
+    {
+      "id": 1,
+      "text": "Buy Plots",
+      "to": "/buy-plots"
+    },
+    {
+      "id": 2,
+      "text": "Contact Us",
+      "to": "/contact"
+    },
+    {
+      "id": 3,
+      "text": "More",
+      "to": "/more"
+    }
   ]
 }
